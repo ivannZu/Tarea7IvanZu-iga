@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <serie>
+        <title>el titanic </title>
+        <director>ivan vazquez</director>
+        <producer>maria elena</producer>
+        <Release>
+            <year>2001</year>
+            <month>mayo</month>
+        </Release>
+    </serie>
+
+    <serie>
+    <title>los vengadores</title>
+    <director> Stan Lee</director>
+    <producer>marvel</producer>
+    <Release>
+        <year>2018</year>
+        <month>enero</month>
+    </Release>
+    </serie>
+
+    <serie>
+    <title>spiderman 2</title>
+    <director> Stan Lee</director>
+    <producer>marvel</producer>
+    <Release>
+        <year>2021</year>
+        <month>junio</month>
+    </Release>
+    </serie>
+
+    <serie>
+        <title >la momia 2 </title>
+        <director> Alex Kurtzman</director>
+        <producer>alberth soon </producer>
+        <Release>
+            <year>2015</year>
+            <month>enero</month>
+        </Release>
+    </serie>
+
+    <serie>
+        <title>la llorona</title>
+        <director>esthela snow</director>
+        <producer>Christopher McQuarrie</producer>
+        <Release>
+            <year>2020</year>
+            <month>octubre</month>
+        </Release>
+    </serie>
+</series>
